@@ -1,9 +1,10 @@
 /*  your css code here. If applicable */
 body {
       font-family: Arial, sans-serif;
-      display: flex;
+      /* display: flex;
       align-items: center;
-      justify-content: center;
+      justify-content: center; */
+	text-align: center;
       height: 100vh;
       margin: 0;
     }
@@ -34,3 +35,7 @@ body {
       border-radius: 5px;
       outline: none;
     }
+#code-1{
+
+	
+}

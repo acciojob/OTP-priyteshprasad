@@ -1,4 +1,5 @@
 //your JS code here. If required.
+document.getElementById("code-1").focus()
 function handleInput(element, event) {
       if (event.inputType === 'deleteContentBackward' && element.previousElementSibling) {
         // On backspace, move focus to the previous input
